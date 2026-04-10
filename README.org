@@ -4,6 +4,6 @@ Common Lisp bindings for tree-sitter
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/lem-project/tree-sitter-cl.git   |
-| commit  | 0000000                                                  |
+| commit  | 431b572                                                  |
 | systems | tree-sitter-cl                                           |
 |---------+----------------------------------------------------------|
