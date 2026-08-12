@@ -7,4 +7,4 @@ Common Lisp bindings for tree-sitter
 | commit  | 431b572                                                  |
 | systems | tree-sitter-cl                                           |
 |---------+----------------------------------------------------------|
- 
+  
